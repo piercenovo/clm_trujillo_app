@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:clm_trujillo_app/src/core/constants/colors.dart';
 import 'package:clm_trujillo_app/src/core/constants/image_strings.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 class QrCodeCard extends StatelessWidget {
   const QrCodeCard({

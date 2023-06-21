@@ -1,5 +1,5 @@
 import 'package:clm_trujillo_app/src/core/constants/image_strings.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 import 'package:flutter/material.dart';
 
 class CheckingLogin extends StatelessWidget {

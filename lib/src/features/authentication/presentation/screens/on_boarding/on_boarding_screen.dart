@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 
 import 'package:clm_trujillo_app/src/core/constants/colors.dart';
 import 'package:clm_trujillo_app/src/core/helpers/animation_route.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 import 'package:clm_trujillo_app/src/features/authentication/data/datasources/local/on_boarding_data.dart';
 import 'package:clm_trujillo_app/src/features/authentication/presentation/screens/on_boarding/widgets/dot_indicator.dart';

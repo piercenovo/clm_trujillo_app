@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:clm_trujillo_app/src/core/common/screens/invitation/widgets/invitation_content.dart';
 import 'package:clm_trujillo_app/src/core/common/screens/invitation/widgets/invitation_title.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 import 'package:boxicons/boxicons.dart';
 

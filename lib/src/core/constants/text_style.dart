@@ -1,4 +1,4 @@
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 import 'package:flutter/material.dart';
 
 TextStyle textTitleLarge(BuildContext context) {

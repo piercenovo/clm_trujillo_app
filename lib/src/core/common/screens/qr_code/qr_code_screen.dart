@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 import 'package:clm_trujillo_app/src/core/common/screens/qr_code/widgets/qr_code_card.dart';
 import 'package:clm_trujillo_app/src/core/common/screens/qr_code/widgets/qr_code_title.dart';

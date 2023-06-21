@@ -6,7 +6,7 @@ import 'package:flutter/material.dart';
 import 'package:clm_trujillo_app/src/core/common/screens/invitation/invitation_screen.dart';
 import 'package:clm_trujillo_app/src/core/constants/colors.dart';
 import 'package:clm_trujillo_app/src/core/constants/text_strings.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 import 'package:clm_trujillo_app/src/features/authentication/presentation/screens/home/widgets/home_subtitle_section.dart';
 

@@ -4,7 +4,7 @@ import 'package:clm_trujillo_app/src/core/common/screens/qr_code/qr_code_screen.
 import 'package:clm_trujillo_app/src/core/helpers/animation_route.dart';
 import 'package:clm_trujillo_app/src/core/constants/colors.dart';
 import 'package:clm_trujillo_app/src/core/constants/text_strings.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 import 'package:boxicons/boxicons.dart';
 

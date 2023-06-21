@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 import 'package:clm_trujillo_app/src/core/constants/text_strings.dart';
 import 'package:clm_trujillo_app/src/core/constants/text_style.dart';
-import 'package:clm_trujillo_app/src/core/common/hola/size_config.dart';
+import 'package:clm_trujillo_app/src/core/utils/size_config.dart';
 
 class QrCodeTitle extends StatelessWidget {
   const QrCodeTitle({
